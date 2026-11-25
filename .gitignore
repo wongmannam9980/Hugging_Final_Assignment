@@ -1,0 +1,15 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+attachments/
+evals/results.jsonl
+*.pyc
+
+# Local benchmark runs / downloaded attachments
+evals/local_results/
+evals/local_attachments/
+.learning-v1-backup-*/

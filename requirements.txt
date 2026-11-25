@@ -1,0 +1,14 @@
+beautifulsoup4
+huggingface-hub
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langgraph
+openpyxl
+pypdf
+python-docx
+rank-bm25
+requests
+pytest
+gradio[oauth]==5.25.2
